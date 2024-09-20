@@ -61,6 +61,6 @@ Welcome to my GitHub profile! I hold a **5-year dual degree in Computer Engineer
 ---
 
 ## 📈 Future Goals:
-As a passionate fintech professional, my goal is to continue developing cutting-edge solutions that merge **finance** and **technology**. I aim to specialize further in **AI-driven financial forecasting**, **DeFi (Decentralized Finance)**, and **blockchain-based solutions** for financial markets. If you're looking to collaborate on projects that combine finance, tech, and analytics, feel free to reach out!
+As a passionate fintech professional, my goal is to continue developing cutting-edge solutions that merge **finance** and **technology**. I aim to specialize further in **AI-driven financial forecasting**, **blockchain-based solutions** for financial markets. I am also interested in **cybersecuirty**! If you're looking to collaborate on projects that combine finance, tech, and analytics, feel free to reach out!
 
 Let’s connect if you're interested in fintech, algorithmic trading, or business analytics projects!
