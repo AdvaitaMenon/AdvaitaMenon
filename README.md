@@ -1,6 +1,6 @@
 # Hi, I'm Advaita! 👋 | Fintech Enthusiast | CS Engineer + MBA in Finance
 
-Welcome to my GitHub profile! I hold a **5-year dual degree in Computer Engineering (B.Tech)** and **MBA in Technology Management** with a **major in Finance** and a **minor in Business Analytics**. My passion lies in leveraging my technical expertise and deep knowledge of finance to build innovative fintech solutions and data-driven decision-making tools.
+Welcome to my GitHub profile! I am in the final year of a **5-year dual degree in Computer Engineering (B.Tech)** and **MBA in Technology Management** with a **major in Finance** and a **minor in Business Analytics**. My passion lies in leveraging my technical expertise and deep knowledge of finance to build innovative fintech solutions and data-driven decision-making tools.
 
 ---
 
