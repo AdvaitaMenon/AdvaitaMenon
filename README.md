@@ -16,13 +16,12 @@ Welcome to my GitHub profile! I hold a **5-year dual degree in Computer Engineer
 
 ### Core Technical Skills:
 - **Programming Languages**: Python,C++
-- **Web Development**: HTML,CSS, JS
 - **Data Analytics Tools**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel (financial modeling)
 - **APIs**: Financial APIs (Yahoo Finance, Alpha Vantage), RESTful APIs
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Machine Learning**: Scikit-learn, TensorFlow, predictive models (LSTM, time-series forecasting)
-- **Deep Learning**:
-- **Big Data**: 
+- **Databases**: MySQL
+- **Machine Learning**: Scikit-learn,SVM,ensemble methods, predictive models (LSTM, time-series forecasting)
+- **Deep Learning**: CNN, RNN, Computer vision
+- **Big Data**: Hadoo, Spark
 
 ### Finance and Business Skills:
 - **Financial Modeling**: Excel-based financial planning, forecasting, valuation models, and risk management.
