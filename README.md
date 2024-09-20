@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I hold a **5-year dual degree in Computer Engineer
 ---
 
 ## 🧑‍💼 About Me:
-- 💼 **Career Focus**: Developing fintech applications, financial data analytics, and business strategy powered by technology.
+- 💼 **Career Focus**: Developing solutions that automate and reduce time and increase productivity,fintech solutions, financial data analytics, and business strategy powered by technology.
 - 🔭 **Current Projects**: Working on automated financial systems, algorithmic trading bots, and predictive models for business and finance.
 - 🌱 **Learning**: Blockchain, Decentralized Finance (DeFi), big data, AI and advanced machine learning techniques for financial forecasting.
 - 💬 **Ask me about**: Finance, technology, business analytics, and how to integrate tech into financial solutions to improve decision-making.
